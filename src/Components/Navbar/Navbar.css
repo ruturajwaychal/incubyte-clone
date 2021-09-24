@@ -1,0 +1,20 @@
+.nav-logo {
+  padding-left: 55px;
+}
+
+.career {
+  color: #212529 !important;
+  font-weight: 600;
+}
+
+.menu {
+  background-color: #12375a;
+  /* color: white; */
+}
+
+.talk {
+  background-color: #0f2f4c;
+}
+.talk:hover {
+  background-color: #0f2f4c;
+}

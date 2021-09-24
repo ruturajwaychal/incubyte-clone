@@ -1,0 +1,28 @@
+.tdd {
+  background-color: #0f2f4c;
+}
+.TextSection {
+  text-align: left !important;
+}
+
+.add {
+  color: #64c52e;
+}
+
+.example {
+  color: #e83e9b;
+  font-weight: 400;
+}
+
+.verticle {
+  border-left: 2px solid #5cc5d5;
+  height: 75px;
+}
+
+.tabind {
+  background-color: #272822;
+}
+
+.bullets {
+  color: #5cc5d5;
+}

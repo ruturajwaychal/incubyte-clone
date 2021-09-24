@@ -1,0 +1,14 @@
+.footer {
+  background-color: #f1f1f2;
+  /* height: 390px; */
+  padding-top: 5px;
+  cursor: pointer;
+}
+
+.copyright {
+  cursor: pointer;
+}
+
+.TextSection {
+  text-align: left !important;
+}
